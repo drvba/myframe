@@ -1,0 +1,32 @@
+body {
+  font-family: "Noto Sans Gujarati", sans-serif;
+  background: #f4f9f4;
+  text-align: center;
+  padding: 20px;
+}
+
+.frame {
+  width: 400px;
+  margin: 20px auto;
+  padding: 15px;
+  border: 12px solid #008000;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.frame img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.name-text {
+  margin-top: 15px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #008000;
+}
+
+.controls {
+  margin-top: 20px;
+}
